@@ -2,7 +2,7 @@
 Analyzing Stock Market Prices Exploration Data with Twitter Datasets
 
 ## Dataset Used
-- <a href="[https://github.com/vierohedfam/Stock-Market-Prices/blob/main/TWTR.csv](https://github.com/vierohedfam/Stock-Market-Prices/blob/main/TWTR.csv)"> Twitter Data</a>
+- <a href="(https://github.com/vierohedfam/Stock-Market-Prices/blob/main/TWTR.csv)"> Twitter Data</a>
 
 ## Process
 - Dataset Information and Data Import
